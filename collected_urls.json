@@ -1,0 +1,172 @@
+{
+  "数据工程与治理": {
+    "技术博客": [
+      "https://blog.csdn.net/oOBubbleX/article/details/140550620",
+      "https://zhuanlan.zhihu.com/p/6454418919",
+      "https://www.smartbi.com.cn/wiki/7454",
+      "https://www.primeton.com/blog/3984.html",
+      "https://www.fanruan.com/finepedia/article/6852a0fe0bd240a239a7f6ef",
+      "https://www.astera.com/zh-CN/type/blog/data-governance-best-practices/",
+      "https://lydaas.com/case/shkj",
+      "https://lakefs.io/blog/heterogeneous-data/",
+      "https://dzone.com/articles/data-governance-data-integration-part-4"
+    ],
+    "学术论文": [
+      "https://www.sciencedirect.com/science/article/pii/S2352340924008175",
+      "https://crad.ict.ac.cn/fileJSJYJYFZ/journal/article/jsjyjyfz/HTML/2022-02-478.shtml",
+      "http://scis.scichina.com/cn/2020/SSI-2019-0172.pdf",
+      "https://patents.google.com/patent/CN114461603A/zh",
+      "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/cem.70075",
+      "https://ieeexplore.ieee.org/document/7061702/",
+      "https://www.nature.com/articles/s41598-025-22752-2",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC9294435/"
+    ],
+    "白皮书": [
+      "https://www.caict.ac.cn/kxyj/qwfb/bps/201906/P020190604471240563279.pdf"
+    ]
+  },
+  "数据标注与质检": {
+    "技术博客": [
+      "https://aws.amazon.com/cn/what-is/data-labeling/",
+      "https://zhuanlan.zhihu.com/p/685353678",
+      "https://blog.csdn.net/lvaolan/article/details/153682774",
+      "https://bbs.itying.com/topic/68567e7a4715aa0088483c0b",
+      "https://blog.csdn.net/m0_62554628/article/details/138218045",
+      "https://zhuanlan.zhihu.com/p/498898425",
+      "https://lingdong.fuxi.163.com/database/2695",
+      "https://www.cnblogs.com/syw20170419/p/17897139.html",
+      "https://docs.ultralytics.com/zh/guides/data-collection-and-annotation/",
+      "https://www.damcogroup.com/blogs/mastering-quality-control-in-data-annotation",
+      "https://www.annotera.ai/blog/9-best-practices-for-quality-assurance-in-data-annotation/",
+      "https://www.truppglobal.com/blog/quality-control-in-data-annotation/",
+      "https://www.springbord.com/blog/beginners-guide-to-data-annotation-tips-and-best-practices/"
+    ],
+    "标准规范": [
+      "https://content.mlex.com/Attachments/2025-05-23_CZT297CHX8R49J68/SAMR_NSA_GenAI_data_annotation_security_specification.pdf",
+      "https://docs.feishu.cn/v/wiki/SICRwshCwi5RMKkKcnJcKSelnpc/a4"
+    ]
+  },
+  "大模型预训练": {
+    "技术博客": [
+      "https://zhuanlan.zhihu.com/p/648798461",
+      "https://blog.csdn.net/qq_43243579/article/details/136173411",
+      "https://transformers.run/c4/c15_pretrain_llms/",
+      "http://www.hubwiz.com/blog/3-ways-to-build-domain-specific-llms/",
+      "https://techdiylife.github.io/big-model-training/deepspeed/LLM-state-of-GPT.html",
+      "https://zhuanlan.zhihu.com/p/654463331",
+      "http://fancyerii.github.io/2023/11/13/cpt/",
+      "https://blog.csdn.net/qq_40206371/article/details/137633033",
+      "https://guangyuwu.wordpress.com/2024/09/09/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9%E6%AF%94%EF%BC%9A%E7%BB%A7%E7%BB%AD%E9%A2%84%E8%AE%AD%E7%BB%83-vs-%E5%BE%AE%E8%B0%83/",
+      "https://zhuanlan.zhihu.com/p/709851950",
+      "https://www.databricks.com/blog/llm-pre-training-and-custom-llms",
+      "https://kili-technology.com/large-language-models-llms/building-domain-specific-llms-examples-and-techniques",
+      "https://medium.com/@gilinachum/llm-domain-adaptation-using-continued-pre-training-part-1-3-e3d10fcfdae1"
+    ],
+    "学术论文": [
+      "https://arxiv.org/abs/2007.15779",
+      "https://arxiv.org/html/2407.14076v1",
+      "https://dl.acm.org/doi/10.1145/3458754",
+      "https://www.sciencedirect.com/science/article/pii/S0166361522001300"
+    ],
+    "开源项目": [
+      "https://github.com/datawhalechina/happy-llm"
+    ]
+  },
+  "大模型微调技术": {
+    "技术博客": [
+      "https://zhuanlan.zhihu.com/p/690727083",
+      "https://blog.csdn.net/weixin_44826203/article/details/129733930",
+      "https://aws.amazon.com/cn/blogs/china/practical-series-on-fine-tuning-large-language-models-part-two/",
+      "https://huggingface.co/blog/zh/peft",
+      "https://www.redhat.com/zh-cn/topics/ai/what-is-peft",
+      "http://www.360doc.com/content/24/1013/05/55423461_1136421475.shtml",
+      "https://blog.csdn.net/qq_43243579/article/details/136184157",
+      "https://transformers.run/c4/c16_finetune_llms/",
+      "https://blog.csdn.net/sunyuhua_keyboard/article/details/140096441",
+      "https://zhuanlan.zhihu.com/p/29056650664",
+      "https://docs.aws.amazon.com/zh_cn/sagemaker/latest/dg/nova-fine-tune.html",
+      "https://heidloff.net/article/efficient-fine-tuning-lora/",
+      "https://abvijaykumar.medium.com/fine-tuning-llm-parameter-efficient-fine-tuning-peft-lora-qlora-part-1-571a472612c4",
+      "https://www.ibm.com/think/topics/parameter-efficient-fine-tuning",
+      "https://huggingface.co/learn/smol-course/unit1/3a",
+      "https://www.geeksforgeeks.org/artificial-intelligence/difference-between-fine-tuning-supervised-fine-tuning-sft-and-instruction-fine-tuning/",
+      "https://www.ibm.com/think/topics/instruction-tuning",
+      "https://nebius.com/blog/posts/fine-tuning/supervised-fine-tuning"
+    ],
+    "学术论文": [
+      "https://arxiv.org/abs/2312.12148",
+      "https://arxiv.org/abs/2308.07074"
+    ],
+    "开源项目": [
+      "https://github.com/huggingface/peft"
+    ]
+  },
+  "强化学习与对齐": {
+    "技术博客": [
+      "https://aws.amazon.com/cn/what-is/reinforcement-learning-from-human-feedback/",
+      "https://blog.csdn.net/Julialove102123/article/details/135669376",
+      "https://zhuanlan.zhihu.com/p/785616547",
+      "https://www.ibm.com/cn-zh/think/topics/rlhf",
+      "https://zhuanlan.zhihu.com/p/695990388",
+      "https://blog.csdn.net/wjjc1017/article/details/136230499",
+      "https://learn.microsoft.com/zh-cn/azure/ai-foundry/openai/how-to/fine-tuning-direct-preference-optimization?view=foundry-classic",
+      "https://zhuanlan.zhihu.com/p/716947703",
+      "https://aistudio.baidu.com/blog/detail/731025001266309",
+      "https://medium.com/@nishthakukreti.01/the-shift-from-rlhf-to-dpo-for-llm-alignment-fine-tuning-large-language-models-631f854de301",
+      "https://snorkel.ai/blog/llm-alignment-techniques-4-post-training-approaches/",
+      "https://huggingface.co/blog/ariG23498/rlhf-to-dpo"
+    ],
+    "学术论文": [
+      "https://arxiv.org/abs/2407.16216"
+    ],
+    "视频课程": [
+      "https://www.bilibili.com/video/BV1R94y1P7QX/"
+    ],
+    "开源项目": [
+      "https://github.com/wdndev/llm_interview_note/blob/main/07.%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0/1.rlhf%E7%9B%B8%E5%85%B3/1.rlhf%E7%9B%B8%E5%85%B3.md"
+    ]
+  },
+  "大模型评估": {
+    "技术博客": [
+      "https://zhuanlan.zhihu.com/p/771041504",
+      "https://developer.volcengine.com/articles/7416667699021316150",
+      "https://blog.csdn.net/2501_91381485/article/details/147252451",
+      "https://hub.baai.ac.cn/view/48603",
+      "https://www.secrss.com/articles/82009",
+      "https://zhuanlan.zhihu.com/p/730823849",
+      "https://blog.csdn.net/kabuto_hui/article/details/137999455",
+      "https://www.cnblogs.com/bonelee/p/18152375",
+      "https://zhuanlan.zhihu.com/p/26098146564",
+      "https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation",
+      "https://www.evidentlyai.com/llm-guide/llm-benchmarks",
+      "https://www.turing.com/resources/understanding-llm-evaluation-and-benchmarks"
+    ],
+    "白皮书": [
+      "https://www.caict.ac.cn/kxyj/qwfb/ztbg/202407/P020240711534708580017.pdf"
+    ],
+    "开源项目": [
+      "https://github.com/modelscope/modelscope-classroom/blob/main/LLM-tutorial/K.%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%87%AA%E5%8A%A8%E8%AF%84%E4%BC%B0%E7%90%86%E8%AE%BA%E5%92%8C%E5%AE%9E%E6%88%98--LLM%20Automatic%20Evaluation.md"
+    ]
+  },
+  "智能体开发与应用": {
+    "技术博客": [
+      "https://zhuanlan.zhihu.com/p/19500155185",
+      "https://developer.volcengine.com/articles/7403569858706669587",
+      "https://blog.csdn.net/musicml/article/details/140283439",
+      "https://www.promptingguide.ai/zh/research/llm-agents",
+      "https://ppio.com/blogs/post/yi-wen-kan-dong-2025nian-agentliu-da-zui-xin-qu-shi-aizhuan-lan",
+      "https://aws.amazon.com/cn/what-is/retrieval-augmented-generation/",
+      "https://zhuanlan.zhihu.com/p/675509396",
+      "https://cloud.google.com/use-cases/retrieval-augmented-generation?hl=zh-CN",
+      "https://www.elastic.co/cn/what-is/retrieval-augmented-generation",
+      "https://www.redhat.com/zh-cn/topics/ai/what-is-retrieval-augmented-generation",
+      "https://neo4j.com/blog/genai/advanced-rag-techniques/",
+      "https://docs.langchain.com/oss/python/langchain/rag",
+      "https://www.promptingguide.ai/research/rag",
+      "https://www.analyticsvidhya.com/blog/2024/05/building-llm-agent-using-advanced-rag-techniques/"
+    ],
+    "开源项目": [
+      "https://github.com/datawhalechina/hello-agents"
+    ]
+  }
+}

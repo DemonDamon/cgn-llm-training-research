@@ -1,0 +1,51 @@
+{
+  "数据工程与治理": [
+    "https://blog.csdn.net/oOBubbleX/article/details/140550620",
+    "https://zhuanlan.zhihu.com/p/6454418919",
+    "https://www.astera.com/zh-CN/type/blog/data-governance-best-practices/",
+    "https://lakefs.io/blog/heterogeneous-data/",
+    "https://www.sciencedirect.com/science/article/pii/S2352340924008175"
+  ],
+  "数据标注与质检": [
+    "https://aws.amazon.com/cn/what-is/data-labeling/",
+    "https://zhuanlan.zhihu.com/p/685353678",
+    "https://blog.csdn.net/m0_62554628/article/details/138218045",
+    "https://www.damcogroup.com/blogs/mastering-quality-control-in-data-annotation",
+    "https://www.annotera.ai/blog/9-best-practices-for-quality-assurance-in-data-annotation/"
+  ],
+  "大模型预训练": [
+    "https://zhuanlan.zhihu.com/p/648798461",
+    "https://blog.csdn.net/qq_43243579/article/details/136173411",
+    "https://zhuanlan.zhihu.com/p/654463331",
+    "http://fancyerii.github.io/2023/11/13/cpt/",
+    "https://www.databricks.com/blog/llm-pre-training-and-custom-llms"
+  ],
+  "大模型微调技术": [
+    "https://zhuanlan.zhihu.com/p/690727083",
+    "https://huggingface.co/blog/zh/peft",
+    "https://blog.csdn.net/qq_43243579/article/details/136184157",
+    "https://www.ibm.com/think/topics/parameter-efficient-fine-tuning",
+    "https://www.ibm.com/think/topics/instruction-tuning"
+  ],
+  "强化学习与对齐": [
+    "https://aws.amazon.com/cn/what-is/reinforcement-learning-from-human-feedback/",
+    "https://zhuanlan.zhihu.com/p/695990388",
+    "https://zhuanlan.zhihu.com/p/716947703",
+    "https://huggingface.co/blog/ariG23498/rlhf-to-dpo",
+    "https://snorkel.ai/blog/llm-alignment-techniques-4-post-training-approaches/"
+  ],
+  "大模型评估": [
+    "https://zhuanlan.zhihu.com/p/771041504",
+    "https://developer.volcengine.com/articles/7416667699021316150",
+    "https://zhuanlan.zhihu.com/p/730823849",
+    "https://www.confident-ai.com/blog/llm-evaluation-metrics-everything-you-need-for-llm-evaluation",
+    "https://www.evidentlyai.com/llm-guide/llm-benchmarks"
+  ],
+  "智能体开发与应用": [
+    "https://zhuanlan.zhihu.com/p/19500155185",
+    "https://developer.volcengine.com/articles/7403569858706669587",
+    "https://aws.amazon.com/cn/what-is/retrieval-augmented-generation/",
+    "https://zhuanlan.zhihu.com/p/675509396",
+    "https://neo4j.com/blog/genai/advanced-rag-techniques/"
+  ]
+}
