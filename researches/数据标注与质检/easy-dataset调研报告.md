@@ -28,7 +28,7 @@ easy-dataset是一个开源的、专为大语言模型（LLM）微调而设计�
 
 easy-dataset采用项目制的管理方式，整合了从文档处理到数据导出的完整链路。其核心功能模块可以概括为以下几个部分：
 
-![easy-dataset核心功能架构图](https://raw.githubusercontent.com/ConardLi/easy-dataset/main/public/imgs/framework.png)
+![easy-dataset核心功能架构图](https://github.com/ConardLi/easy-dataset/blob/main/public/imgs/en-arc.png)
 
 ### 3.1 模型配置中心 (Model Configuration Center)
 
